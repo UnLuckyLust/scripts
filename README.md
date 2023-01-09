@@ -1,1 +1,1 @@
-# UnLuckyLust Fivem Scripts
+# UnLuckyLust FiveM/RedM Scripts
