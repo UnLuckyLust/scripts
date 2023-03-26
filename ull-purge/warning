@@ -1,3 +1,8 @@
-Added Version check
-Fix for the progress bar animation
-Small fixes in events
+ChangeLog v1.4.0 Summary:
+- Fixed hours & minutes to 2-digit format
+- Added Unlimited auto-starts based on timezone
+- Enhanced configs for stability & reliability
+- Added public 'function.lua' file for script modifications
+- Added language support: English & Hebrew included
+- Fixed reconnect issue: crashed players can now interact with boxes
+- Added option to freeze supply box after spawning
