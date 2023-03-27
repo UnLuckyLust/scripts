@@ -1,5 +1,5 @@
 ChangeLog v1.4.0 Summary:
-- Fixed hours & minutes to 2-digit format
+- Fixed hours and minutes to 2-digit format
 - Added Unlimited auto-starts based on timezone
 - Enhanced configs for stability & reliability
 - Added public 'function.lua' file for script modifications
