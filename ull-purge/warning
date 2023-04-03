@@ -1,8 +1,6 @@
-ChangeLog v1.4.0 Summary:
-- Fixed hours and minutes to 2-digit format
-- Added Unlimited auto-starts based on timezone
-- Enhanced configs for stability & reliability
-- Added public 'function.lua' file for script modifications
-- Added language support: English & Hebrew included
-- Fixed reconnect issue: crashed players can now interact with boxes
-- Added option to freeze supply box after spawning
+ChangeLog v1.4.1 Summary:
+- Fixed peds spawning after the event ended
+- Added Settings UI to control event in-game
+- Added Mini-game when unlocking boxes and purging peds
+- Added distance limit to peds and supply blips
+- Added option to revive dead players + fx + send player to sky with parachute
