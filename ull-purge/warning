@@ -1,6 +1,5 @@
-ChangeLog v1.4.1 Summary:
-- Fixed peds spawning after the event ended
-- Added Settings UI to control event in-game
-- Added Mini-game when unlocking boxes and purging peds
-- Added distance limit to peds and supply blips
-- Added option to revive dead players + fx + send player to sky with parachute
+ChangeLog v1.4.2 Summary:
+- Added Auto Respawn function for each ped type
+- Added option to disable permission check
+- Added option for each ped type to change if can be purge
+- Added option to change if ped can be purge when the event is not active
