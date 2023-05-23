@@ -1,8 +1,8 @@
-ChangeLog v1.5.0 Summary:
-- Added Chaos Mode
-- Added Counfigrable Function to Remove Player Weapons
-- Added Chaos Command and UI control
-- Added health config for revive function
-- Fix news ui overlapping each other
-- Improvment to ai peds attacks
-- Changes to Discord Logs functions
+ChangeLog v1.5.1 Summary:
+- Added a Scoreboard to track kills and deaths
+- Added Scoreboard Command, Open key and UI controls
+- Rewritten Revive Function with more Improvment and fixes
+- Added option to disable a specific command
+- Fixed 'Remove Function' removing only 1 item
+- Added command to manually Remove Weapon from players
+- Changes to Commands
