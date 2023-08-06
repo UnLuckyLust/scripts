@@ -1,8 +1,4 @@
-ChangeLog v1.5.1 Summary:
-- Added a Scoreboard to track kills and deaths
-- Added Scoreboard Command, Open key and UI controls
-- Rewritten Revive Function with more Improvment and fixes
-- Added option to disable a specific command
-- Fixed 'Remove Function' removing only 1 item
-- Added command to manually Remove Weapon from players
-- Changes to Commands
+ChangeLog v1.6.0 Summary:
+- Changes to Settings UI
+- Added Life Support Stations
+- Added New Version for the Purge Emergency Broadcast System
