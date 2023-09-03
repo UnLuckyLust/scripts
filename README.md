@@ -1,4 +1,4 @@
-# FiveM/RedM Scripts Written by UnLuckyLust (©LuckyDreams 2023)
+# FiveM/RedM Scripts Written by UnLuckyLust ( © Dreams Weaver 2023 )
 # Purchase only at https://UnLuckyLust.tebex.io
 
 - This is a repository with details on the latest version of our FiveM and RedM
