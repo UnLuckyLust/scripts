@@ -1,3 +1,4 @@
-ChangeLog v1.0.1:
-- Added database functions
-- Added option for a random amount of money
+ChangeLog v1.1.0:
+- Added full support for ESX Legacy Framework
+- Changes to the database structure
+- Bug fixes, and functions optimization
