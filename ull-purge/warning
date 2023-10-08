@@ -1,4 +1,4 @@
-ChangeLog v1.6.0 Summary:
-- Changes to Settings UI
-- Added Life Support Stations
-- Added New Version for the Purge Emergency Broadcast System
+ChangeLog v1.6.1 Summary:
+- Functions fixes & general optimztion
+- Changes to config files
+- Removed purging sounds (when looting supply boxes and purging peds)
