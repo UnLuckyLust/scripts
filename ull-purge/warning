@@ -1,4 +1,6 @@
-ChangeLog v1.6.1 Summary:
+ChangeLog v1.7.0 Summary:
+- Added more Mini Games
+- Added option to change Circle Minigame colors
+- Added Dependencie: 'ull-essential' {required}
+- Removed Dependencie: 'interact-sound'
 - Functions fixes & general optimztion
-- Changes to config files
-- Removed purging sounds (when looting supply boxes and purging peds)
