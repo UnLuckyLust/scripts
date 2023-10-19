@@ -3,4 +3,4 @@ ChangeLog v1.7.0 Summary:
 - Added option to change Circle Minigame colors
 - Added Dependency: 'ull-essential' {required}
 - Removed Dependency: 'interact-sound'
-- Functions fixes & general optimztion
+- Functions fixes & general optimization
