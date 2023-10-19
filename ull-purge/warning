@@ -1,6 +1,6 @@
 ChangeLog v1.7.0 Summary:
 - Added more Mini Games
 - Added option to change Circle Minigame colors
-- Added Dependencie: 'ull-essential' {required}
-- Removed Dependencie: 'interact-sound'
+- Added Dependency: 'ull-essential' {required}
+- Removed Dependency: 'interact-sound'
 - Functions fixes & general optimztion
