@@ -1,6 +1,6 @@
-ChangeLog v1.7.0 Summary:
-- Added more Mini Games
-- Added option to change Circle Minigame colors
-- Added Dependency: 'ull-essential' {required}
-- Removed Dependency: 'interact-sound'
+ChangeLog v1.7.1 Summary:
+- Added option to log seconds with time
+- Added option to reset/save player inventory with Purge Event
+- Added option to Give players starter items when Purge Event begins
+- Removed Command: 'purgeremove' | Remove Weapon from Players
 - Functions fixes & general optimization
