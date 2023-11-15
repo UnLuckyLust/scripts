@@ -1,3 +1,9 @@
-ChangeLog v1.0.1 Summary:
-- Changes to Time and Chance functions
-- Functions fixes & general optimization
+ChangeLog v1.1.0 Summary:
+- Added Cooldown Function. {shared}
+- Added Player Identifiers Function. {shared}
+- Added Version Check Function. {server}
+- Added Discord Logs Function. {server}
+- Added Permission Check Public Function. {server}
+- Added Anti Bunny Hop Function. {client}
+- Added Disable Radio Function. {client}
+- Audio functions have been expanded.

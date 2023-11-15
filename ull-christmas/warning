@@ -1,1 +1,5 @@
-First version, no changes yet !
+ChangeLog v1.1.0 Summary:
+- Added full Support for ESX Legacy framework
+- Changing Cooldown functions to use ull-essential script.
+- Changing Discord Logs function to use ull-essential script.
+- Changes to Permission Check function.
