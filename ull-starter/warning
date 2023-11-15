@@ -1,4 +1,11 @@
-ChangeLog v1.1.0:
-- Added full support for ESX Legacy Framework
-- Changes to the database structure
-- Bug fixes, and functions optimization
+ChangeLog v1.2.0:
+- Added a custom wrapped gift prop.
+- Added more mini-games.
+- Added option to change targeting script.
+- An option has been added to disable the opening of the package inside a vehicle.
+- Changing Cooldown functions to use ull-essential script.
+- Changing Discord Logs function to use ull-essential script.
+- Changes to Permission Check function.
+- Functions fixes & general optimization.
+- Added dependency 'ull-essential'.
+- Removed dependency 'PolyZone'.
