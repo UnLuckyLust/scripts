@@ -1,11 +1,3 @@
-ChangeLog v1.2.0:
-- Added a custom wrapped gift prop.
-- Added more mini-games.
-- Added option to change targeting script.
-- An option has been added to disable the opening of the package inside a vehicle.
-- Changing Cooldown functions to use ull-essential script.
-- Changing Discord Logs function to use ull-essential script.
-- Changes to Permission Check function.
-- Functions fixes & general optimization.
-- Added dependency 'ull-essential'.
-- Removed dependency 'PolyZone'.
+ChangeLog v1.2.1:
+- Fixed error when looking for player ID (database reset required, citizen ID replaced with license)
+- Fixed the error that the money was not added to the player
