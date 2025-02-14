@@ -1,1 +1,6 @@
-first version, no changes.
+Version 2.0.0
+- Rewritten for better performance
+- 5 new text animations
+- Added UI controls
+- Supports QB-Core, ESX Legacy & Standalone
+- New Dependency: `ull-essential`
