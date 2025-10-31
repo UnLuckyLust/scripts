@@ -1,4 +1,3 @@
-ChangeLog v1.7.2 Summary:
-- Removed GetWeather Function.
-- Changed time and date functions to ull-essential exports.
-- Changes in the sounds function.
+ChangeLog v1.7.3 Summary:
+- Added support for custom target script.
+- small fixes and adjusment for targeting system and items checks.
